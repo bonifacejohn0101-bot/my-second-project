@@ -12,7 +12,7 @@ import ShoppingCartPage from './pages/ShoppingCartPage.jsx'
 import CheckoutPage from './pages/CheckoutPage.jsx'
 import Signin from './pages/Signin.jsx'
 import ForgetPassword from './pages/ForgetPassword.jsx'
-import ConfirmationWindow from './pages/confirmationWindow.jsx'
+import ConfirmationWindow from './pages/ConfirmationWindow.jsx'
 
 
 createRoot(document.getElementById('root')).render(
