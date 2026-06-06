@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
-import Signup from './pages/Signup.jsx'
+import Signup from './pages/signup.jsx'
 import Shop from './pages/Shop.jsx'
 import ProductDetails from './pages/ProductDetails.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css'
